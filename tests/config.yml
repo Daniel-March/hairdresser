@@ -1,0 +1,14 @@
+organization:
+  name: Hair Super Style
+  password: 8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918
+  email: some@example.com
+database:
+  dialect: postgresql
+  driver: asyncpg
+  host: localhost
+  port: 5432
+  db_name: hairdresser_tests
+  user_name: hairdresser
+  user_password: 8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918
+cookie:
+  life_time: 604800
